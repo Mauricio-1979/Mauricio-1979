@@ -1,7 +1,8 @@
 <h1>Hey there! I'm Mauricio Bo</h1><br/>
+<h3>Full Stack Developer</he><br/>
 👨🏻‍💻  About Me
 
-💡  I am a Full Stack Developer, passionate about the world of programming, science and knowledge in general, I really like being able to create solutions and solve problems, I am always trying to learn something new, or improve my skills. 
+💡  I am a passionate about the world of programming, science and knowledge in general, I really like being able to create solutions and solve problems, I am always trying to learn something new, or improve my skills. 
 
 I have over 800 hours of code in Henry's bootcamp using technologies like:
 
@@ -57,9 +58,9 @@ I have over 800 hours of code in Henry's bootcamp using technologies like:
   <tr align="center">
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/vercel.svg" width="48" height="48" alt="Git" />
+        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" width="100" height="48" alt="Bootstrap" />
       </a>
-      <br>Vercel
+      <br>Bootstrap
     </td>
     <td align="center"  width="96">
       <a href="#">
@@ -81,7 +82,7 @@ I have over 800 hours of code in Henry's bootcamp using technologies like:
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png)" width="48" height="48" alt="TypeScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
@@ -105,6 +106,7 @@ I have over 800 hours of code in Henry's bootcamp using technologies like:
     </td>
   </tr>
 </table>
+<br/>
 *In addition to having knowledge in:
 - Java SE/EE 
 - Python 
