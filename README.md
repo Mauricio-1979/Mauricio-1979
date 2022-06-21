@@ -1,4 +1,4 @@
-Hey there! I'm Mauricio
+<h1>Hey there! I'm Mauricio</h1><br/>
 👨🏻‍💻  About Me
 
 💡  I am a Full Stack Developer, passionate about the world of programming, science and knowledge in general, I really like being able to create solutions and solve problems, I am always trying to learn something new, or improve my skills. 
